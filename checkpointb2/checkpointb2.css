@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#pokemon-info {
+    margin-top: 20px;
+}
+
+.pokemon-info-item {
+    margin-bottom: 10px;
+}
